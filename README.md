@@ -15,7 +15,7 @@ The Face Recognition Authentication System offers the following features:
 
 To use the Face Recognition Authentication System:
 
-1. **Installation**: Ensure Python is installed on your system. better to use 3.12 version
+1. **Installation**: Ensure Python is installed on your system. better to use the 3.12 version
 2. **Dependencies**: Install necessary dependencies using `pip install -r requirements.txt` eg. opencv, face_recognition, tkinter.
 3. **Run GUI Version**: Execute `python main2.py` for the GUI-based system.
 4. **Run Real-time Version**: Execute `python main-video.py` for real-time face recognition.
@@ -29,6 +29,14 @@ To use the Face Recognition Authentication System:
 main2.py
 Python script implementing the GUI-based face recognition system using Tkinter.
 
+<p align="center">
+  <img src="https://github.com/ZaidZitawi/Face-Recognition/assets/111902956/e5b5230a-291c-4578-803c-9263b4ac8ec3" width="500" height="300">
+</p>
+
+
+
 main-video.py
 Python script implementing the real-time face recognition system using OpenCV.
-
+<p align="center">
+  <img src="https://github.com/ZaidZitawi/Face-Recognition/assets/111902956/1afb9d9e-3783-43df-995c-835c331e8faf" width="500" height="300">
+</p>
