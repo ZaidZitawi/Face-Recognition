@@ -7,7 +7,7 @@ import os
 
 def load_known_faces():
     person_images = {
-        'Zaid Zitawi': ['images/Training Set/zaid zitawi kjfkd.jpg', 'images/Training Set/Zaid Zitawi.jpg', 'images/Training Set/zaidz3j.jpg'],
+        'Zaid Zitawi': ['images/Training Set/zaid zitawi kjfkd.jpg', 'images/Training Set/zaidz3j.jpg'],
         'Elon Musk': ['images/Training Set/Elon Musk.jpg', 'images/Training Set/elonmusk4.jpg', 'images/Training Set/elon_musk.jpg', 'images/Training Set/Elon-Musk.jpg'],
         'The GOOOAT': ['images/Training Set/THE GOAAAAT.jpg', 'images/Training Set/THE GOAAAT.JPG', 'images/Training Set/THE GOOAT.jpg']
     }
